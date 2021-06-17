@@ -1,7 +1,7 @@
 ---
-layout: default
-title: About
+layout: about
+title: About Me
 ---
-# About page
+# About Me
 
-This page tells you a little bit about me.
+## Hi, I am Gourav :)

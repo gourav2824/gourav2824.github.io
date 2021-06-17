@@ -1,6 +1,7 @@
 body {
     background-color: #333;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    box-sizing: border-box;
 }
 
 .quote {
@@ -14,7 +15,7 @@ body {
 }
 
 .navbar {
-    background-color: #444444;
+    background-color: #212121;
     overflow: hidden;
     border-radius: 10px;
 }
@@ -29,7 +30,7 @@ body {
 }
 
 .navbar a:hover {
-    background-color: #111;
+    background-color: #808080;
 }
 
 .imageDiv {
@@ -54,7 +55,6 @@ body {
     top: 70%;
     left: 50%;
     transform: translateX(-50%);
-    color: lavenderblush;
     opacity: 0.75;
 }
 
@@ -64,5 +64,29 @@ body {
 
 .homePageContent {
     margin: 30px;
+    color: lavenderblush;
     font-size: 30px;
+}
+
+.aboutDiv {
+    box-sizing: border-box;
+    display: block;
+    width: 80%;
+    height: 80vh;
+    margin: 20px auto;
+    background-color: #444;
+    border-radius: 10px;
+    padding: 20px 50px;
+    color: lavenderblush;
+}
+
+.aboutFooter {
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+    background-color: #212121;
+    border-radius: 10px;
+    color: lavenderblush;
+    font-size: 20px;
+    padding: 15px 30px;
 }
