@@ -17,14 +17,19 @@
     margin: 20px auto;
     background-color: black;
     border-radius: 10px;
-    padding: 20px 50px;
-    color: lavenderblush;
+    padding: 20px 100px;
+    color: #ddd;
     opacity: 0.5;
 }
 
 .aboutDiv:hover {
     opacity: 1.0;
-    background-color: #111;
+    background-color: #16191d;
+}
+
+.aboutDiv p {
+    font-size: 130%;
+    line-height: 1.5;
 }
 
 .aboutFooter {
