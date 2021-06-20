@@ -11,7 +11,7 @@ title: About Me
     I love to know and learn more and more keyboard shortcuts.
     <br/>
     I have made this website to share some knowledgeable content with others.
-    I will be uploading the content soon.
+    I will be sharing the content soon.
     <br/><br/>
-    Thanks
+    Thanks.
 <p>
