@@ -1,0 +1,11 @@
+.contentDiv {
+    box-sizing: border-box;
+    display: block;
+    width: 80%;
+    background-color: #444;
+    margin: 20px auto;
+    padding: 30px 50px 100px;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+}
