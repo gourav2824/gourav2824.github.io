@@ -7,5 +7,32 @@
     padding: 30px 50px 100px;
     border-radius: 10px;
     color: white;
-    font-size: 20px;
+}
+
+.contentDiv p {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    margin: 20px 0 80px;
+}
+
+.contentDiv li {
+    list-style-type: none;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 2.5;
+}
+
+.contentDiv a {
+    text-decoration: none;
+    color: white;
+}
+
+.contentDiv a:hover {
+    color: #17a2b8;
+}
+
+.contentDiv hr {
+    border: 0;
+    border-top: 1px solid #808080;
 }
