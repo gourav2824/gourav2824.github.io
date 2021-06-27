@@ -6,13 +6,11 @@ title: Content
 <div class="contentDiv">
     <p>Keyboard Shortcuts</p>
     <ul>
-        <li><a href="/content.html">System Shortcuts for Mac</a></li>
-        <hr>
-        <li><a href="/content.html">Terminal Shortcuts for Mac</a></li>
-        <hr>
-        <li><a href="/content.html">Google Chrome Shortcuts for Mac</a></li>
-        <hr>
-        <li><a href="/content.html">IntelliJ Shortcuts for Mac</a></li>
-        <hr>
+        {% for post in site.posts %}
+            <li>
+                <a href={{ post.url }}>{{ post.title }}</a>
+            </li>
+            <hr>
+        {% endfor %}
     </ul>
 </div>
