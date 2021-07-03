@@ -3,7 +3,11 @@ layout: post
 title: Terminal Shortcuts for Mac
 ---
 
-### Terminal Shortcuts (iTerm2)
+<h1>Terminal Shortcuts (iTerm2)</h1>
+<p>This section provides keyboard shortcuts for iTerm2 Terminal of MacOS.</p>
+
+<hr>
+
 - CMD + N
 	- To open a new terminal window
 - CMD + `
@@ -12,17 +16,17 @@ title: Terminal Shortcuts for Mac
 	- To open a new tab in the same terminal window
 - CMD + W
 	- To close a tab
-- CMD + <-
+- CMD + ←
 	- To select the left tab in the same terminal window
-- CMD + ->
+- CMD + →
 	- To select the right tab in the same terminal window
 - CMD + D
 	- To split a tab vertically into two splitted panes
 - CMD + SHIFT + D
 	- To split a tab horizontally into two splitted panes
-- CMD + OPT + <- or CMD + [
+- CMD + OPT + ← or CMD + [
 	- To select left pane in splitted terminal tab
-- CMD + OPT + -> or CMD + ]
+- CMD + OPT + → or CMD + ]
 	- To select right pane in splitted terminal tab
 - CMD + OPT + ↑
 	- To select above pane in splitted terminal tab

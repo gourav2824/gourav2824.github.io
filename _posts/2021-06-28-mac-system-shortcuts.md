@@ -3,7 +3,17 @@ layout: post
 title: System Shortcuts for Mac
 ---
 
-### Finder
+<h1>System Shortcuts for Mac</h1>
+<p>
+	This section provides system shortcuts for MacOS.
+	These shortcuts will help you in text document, managing files,
+	taking screenshots and some other system tasks.
+</p>
+
+<hr>
+
+<h2>Finder</h2>
+
 - CMD + SHIFT + T
 	- Hide or Show the Tab Name
 	- Only works when there is single finder tab
@@ -20,9 +30,11 @@ title: System Shortcuts for Mac
 - CMD + OPT + DELETE
 	- To permanently delete an item
 
+<br>
 <hr>
 
-### Screenshots
+<h2>Screenshots</h2>
+
 - CMD + SHIFT + 3
 	- Screenshot of the entire screen
 	- Screenshot will be saved on the location you set (by default on Desktop)
@@ -44,9 +56,11 @@ title: System Shortcuts for Mac
 	- You can also change the location where you want to store the screenshot
 	- The screenshot will not be copied to clipboard
 
+<br>
 <hr>
 
-### System Shortcuts
+<h2>System Shortcuts</h2>
+
 - F11
 	- To hide or show all the windows opened on Desktop
 - CMD + SPACE
@@ -57,19 +71,21 @@ title: System Shortcuts for Mac
 - CMD + CTRL + SPACE
 	- To open Emojis window
 
+<br>
 <hr>
 
-### Text Shortcuts
+<h2>Text Shortcuts</h2>
+
 - CMD + V
 	- To paste a text without matching the destination style
 - CMD + OPT + SHIFT + V
 	- To paste a text along with matching the destination style
 - To move the cursor to beginning or end of the line
-	- CMD + <-
-	- CMD + ->
+	- CMD + ←
+	- CMD + →
 - To move the cursor left or right word by word
-	- OPT + <-
-	- OPT + ->
+	- OPT + ←
+	- OPT + →
 - To delete a word at once
 	- OPT + DELETE
 - Undo

@@ -1,0 +1,38 @@
+.postContent {
+    box-sizing: border-box;
+    color: whitesmoke;
+    width: 70%;
+    background-color: #444;
+    margin: 20px auto;
+    padding: 30px 80px 100px;
+    border-radius: 10px;
+}
+
+.postContent h1 {
+    font-size: 40px;
+}
+
+.postContent h2 {
+    font-size: 35px;
+}
+
+.postContent p {
+    font-size: 20px;
+}
+
+.postContent ul li {
+    margin-top: 30px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.postContent ul li li {
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.postContent hr {
+    border: 0;
+    border-top: 1px solid #808080;
+}

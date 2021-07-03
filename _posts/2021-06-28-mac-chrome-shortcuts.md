@@ -3,20 +3,24 @@ layout: post
 title: Google Chrome Shortcuts for Mac
 ---
 
-### Google Chrome Shortcuts
+<h1>Google Chrome Shortcuts</h1>
+<p>This section provides keyboard shortcuts of Google Chrome for MacOS.</p>
+
+<hr>
+
 - CMD + T
 	- To open a new tab
 - CMD + W
 	- To close a tab
-- CTRL + TAB or CMD + OPT + ->
+- CTRL + TAB or CMD + OPT + →
 	- To switch to the right tab
-- CTRL + SHIFT + TAB or CMD + OPT + <-
+- CTRL + SHIFT + TAB or CMD + OPT + ←
 	- To switch to the left tab
 - CMD + OPT + ↓ or CMD + OPT + ↑
 	- To select the link of current tab
-- CMD + <-
+- CMD + ←
 	- To go back
-- CMD + ->
+- CMD + →
 	- To go forward
 - CMD + SHIFT + B
 	- To show or hide the Bookmarks Bar
