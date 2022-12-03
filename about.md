@@ -7,7 +7,7 @@ title: About Me
 
 # Hi 👋 , I am Gourav 😄
 <p>
-    I works as an <strong>Application Developer</strong> in <strong>Thoughtworks</strong>.
+    I work as an <strong>Application Developer</strong> in <strong>Thoughtworks</strong>.
     <br>
     I am a Software Engineer with experience in developing fully tested end-to-end applications through Test Driven Development. I have been a part of the complete development of multiple projects involving frontend and backend development.
     <br>
